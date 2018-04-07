@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\AspCore\bin\Debug\netcoreapp2.0\AspCore.deps.json
+C:\Users\pc\Desktop\AspCore\bin\Debug\netcoreapp2.0\AspCore.runtimeconfig.json
+C:\Users\pc\Desktop\AspCore\bin\Debug\netcoreapp2.0\AspCore.runtimeconfig.dev.json
+C:\Users\pc\Desktop\AspCore\bin\Debug\netcoreapp2.0\AspCore.dll
+C:\Users\pc\Desktop\AspCore\bin\Debug\netcoreapp2.0\AspCore.pdb
+C:\Users\pc\Desktop\AspCore\obj\Debug\netcoreapp2.0\AspCore.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\AspCore\obj\Debug\netcoreapp2.0\AspCore.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\AspCore\obj\Debug\netcoreapp2.0\AspCore.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\AspCore\obj\Debug\netcoreapp2.0\AspCore.AssemblyInfo.cs
+C:\Users\pc\Desktop\AspCore\obj\Debug\netcoreapp2.0\AspCore.dll
+C:\Users\pc\Desktop\AspCore\obj\Debug\netcoreapp2.0\AspCore.pdb
